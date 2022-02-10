@@ -1,6 +1,6 @@
 # SQL Notes
 
-- Future me: **Insert My Binder Badge_Logo here.**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chrisattias/sql_notes/HEAD)
 
 ---
 
@@ -28,6 +28,6 @@
 ## Viewing Notes
 
 1. The Jupyter notebooks can be run interactively in a web browser.  All we have to do is follow the following link (load time is usually less than one minute):
-    - Future me: **Insert My Binder URL here.**
+    - https://mybinder.org/v2/gh/chrisattias/sql_notes/HEAD
 1. This GitHub repository folder could be downloaded by clicking on the "Code" button above, followed by the "Download Zip" button.  After downloading and extracting the zip file, the notes can be easily viewed by opening an HTML file with a web browser. 
 1. More advanced users could download and open the Jupyter notebooks locally after installing the needed dependencies.
