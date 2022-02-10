@@ -1,0 +1,6 @@
+name: env_for_sql_notes
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - ipython-sql
